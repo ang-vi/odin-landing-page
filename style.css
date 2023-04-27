@@ -1,0 +1,24 @@
+img {
+  border-radius: 8px;
+  
+  height: 200px;
+}
+
+.title2 h2 {
+    color: blue;
+  }
+
+  .first-container,
+  .footer {
+    background-color: #1F2937;
+    color: white;
+  }
+
+  .third-container {
+    background-color: #E5E7EB;
+    color: #1F2937;
+  }
+
+  .inspiring-quote {
+    
+  }
