@@ -7,61 +7,6 @@
   color: #ffffff;
 }
 
-
-.first-container {
-  display: flex;
-  justify-content: center;
-  padding: 80px 100px;
-  display: flex;
-  background-color: #1F2937;
-  color: #ffffff;
-  
-}
-.second-container {
-  padding: 50px 200px;
-  text-align: center;
-  justify-content: center;
-  gap: 52px;
-}
-
-.first-sub-secondcontainer {
-  display: flex;
-  justify-content: center;
-  padding: 52px;
-}
-
-
-
-.third-container {
-  padding: 100px 200px;
-  background-color: #E5E7EB;
-  color: #1F2937;
-}
-.fourth-container{
-  padding: 80px 100px;
-}
-.footer {
-  padding: 8px 100px;
-  background-color: #1F2937;
-  color: #ffffff;
-}
-.first-sub-firstcontainer {
-padding: 32px;
-}
-
-.second-sub-firstcontainer {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: rgb(116, 116, 116);
-  width: 600px;
-  height: 200px;
-  margin: 10px;
- 
-}
-
-
-
 .header.left {
   display:flex;
   padding: 8px;
@@ -69,26 +14,41 @@ padding: 32px;
 
 .header-right {
   display:flex;
+  font-size: 18px;
+  color: #E5E7EB;
 }
 
 .header-link {
   padding: 8px;
+  font-size: 24px;
+  color: #F9FAF8;
 }
 
-img {
-  border-radius: 8px;
-  height: 200px;
-  width: 200px;
-  border-radius: 8px;
-  border: 4px solid #3882F6
+
+
+
+.first-container {
+  display: flex;
+  justify-content: center;
+  padding: 80px 100px;
+  display: flex;
+  background-color: #1F2937;
+  color: #ffffff; 
 }
 
-.text {
-  height: 200px;
-  width: 200px;
+.first-sub-firstcontainer {
   padding: 32px;
 }
-
+  
+.second-sub-firstcontainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(132, 133, 138);
+  width: 600px;
+  height: 200px;
+  margin: 10px;
+}
 
 .title1 {
   font-size: 48px;
@@ -96,41 +56,61 @@ img {
   color: #F9FAF8;
 }
 
-.subtext,
-.header-right {
+.subtext {
   font-size: 18px;
   color: #E5E7EB;
-}
-
-.header-left,
-.call-to-action-title {
-  font-size: 24px;
-  color: #F9FAF8;
-}
-
-.call-to-action-subtext {
-  color: #F9FAF8;
-}
-
-
-.blue-box,
-button {
-  background-color: #3882F6;
-  color: white;
 }
 
 .sign-up-button-up button {
   color: white;
   font-weight: bold;
   border-radius: 4px;
-  border: 1px solid #3882F6
-}
-
-.sign-up-button-down button {
+  border: 1px solid #3882F6;
   color: white;
   font-weight: bold;
   border-radius: 4px;
-  border: 1px solid white
+  border: 1px #3882F6;
+  padding: 8px 32px;
+  text-align: center;
+  font-size: 14px;
+  background-color: #3882F6;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+.second-container {
+  padding: 50px 100px 0px 100px;
+  text-align: center;
+  justify-content: center;
+}
+
+.first-sub-secondcontainer {
+  display: flex;
+  justify-content: center;
+  padding: 32px;
+}
+
+img {
+  border-radius: 8px;
+  height: 150px;
+  width: 150px;
+  border-radius: 8px;
+  border: 4px solid #3882F6
+}
+
+.text {
+  height: 150px;
+  width: 150px;
+  padding: 25px;
 }
 
 .title2 {
@@ -141,6 +121,20 @@ button {
 
 
 
+
+
+
+
+
+
+.third-container {
+  background-color: #E5E7EB;
+  color: #1F2937;
+  padding: 100px 350px;
+  display: flex;
+  flex-direction: column;
+}
+
 .inspiring-quote {
   font-size: 36px;
   font-style: italic;
@@ -149,4 +143,66 @@ button {
 
 .signature {
   font-weight: bold;
+  align-self: flex-end;
+  font-size: 22px;
 }
+
+
+
+
+
+
+
+
+
+
+.fourth-container{
+  padding: 80px 100px;
+  display: flex;
+  flex-direction: column;
+}
+
+.call-to-action-title {
+  font-size: 24px;
+  color: #F9FAF8;
+  display: flex;
+  
+}
+
+.call-to-action-subtext {
+  color: #F9FAF8;
+ 
+}
+
+.sign-up-button-down button {
+  color: white;
+  font-weight: bold;
+  border-radius: 4px;
+  border: 1px solid white;
+  padding: 8px 32px;
+  text-align: center;
+  font-size: 14px;
+  background-color: #3882F6;
+  color: white;
+}
+
+.blue-box {
+  background-color: #3882F6;
+  color: white;
+  border-radius: 4px;
+  padding: 50px 250px;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+
+.footer {
+  padding: 40px 200px;
+  background-color: #1F2937;
+  color: #ffffff;
+  text-align: center;
+}
+
+
