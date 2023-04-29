@@ -16,10 +16,12 @@ Key notes:
 
 
 
+Copyright
 
-
-copyright
 Image by Julian DC from Pixabay
+
 Image by Michael Pointner from Pixabay 
+
 Image by ❄️♡💛♡❄️ Julita ❄️♡💛♡❄️ from Pixabay
+
 Image by Mar from Pixabay 
