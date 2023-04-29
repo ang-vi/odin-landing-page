@@ -12,3 +12,14 @@ Key notes:
 <li>Use of google search is strongly encouraged.</li>
 <li>Get the project as close as I can to the design provided - no need to get it pixel-perfect</li>
 <li>Free to substitute my own content into this design</li>
+
+
+
+
+
+
+copyright
+Image by Julian DC from Pixabay
+Image by Michael Pointner from Pixabay 
+Image by ❄️♡💛♡❄️ Julita ❄️♡💛♡❄️ from Pixabay
+Image by Mar from Pixabay 
